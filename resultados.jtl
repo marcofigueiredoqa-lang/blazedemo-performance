@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1776038246230,716,HTTP Request,200,OK,Teste de Pico 2-82,text,true,,6715,235,250,278,https://blazedemo.com/purchase.php,706,0,399
+1776038246191,755,HTTP Request,200,OK,Teste de Pico 2-72,text,true,,6715,235,250,278,https://blazedemo.com/purchase.php,745,0,385
+1776038246178,776,HTTP Request,200,OK,Teste de Pico 2-69,text,true,,6715,235,248,276,https://blazedemo.com/purchase.php,764,0,438
+1776038246398,570,HTTP Request,200,OK,Teste de Pico 2-124,text,true,,6715,235,247,275,https://blazedemo.com/purchase.php,559,0,307
+1776038246277,696,HTTP Request,200,OK,Teste de Pico 2-93,text,true,,6715,235,246,275,https://blazedemo.com/purchase.php,684,0,387
+1776038246154,822,HTTP Request,200,OK,Teste de Pico 2-63,text,true,,6715,235,245,274,https://blazedemo.com/purchase.php,812,0,519
+1776038246307,676,HTTP Request,200,OK,Teste de Pico 2-101,text,true,,6715,235,244,273,https://blazedemo.com/purchase.php,664,0,288
+1776038245978,1006,HTTP Request,200,OK,Teste de Pico 2-19,text,true,,6715,235,243,272,https://blazedemo.com/purchase.php,994,0,628
+1776038246062,934,HTTP Request,200,OK,Teste de Pico 2-40,text,true,,6715,235,242,271,https://blazedemo.com/purchase.php,920,0,563
+1776038246238,764,HTTP Request,200,OK,Teste de Pico 2-84,text,true,,6715,235,241,270,https://blazedemo.com/purchase.php,754,0,426
+1776038246335,669,HTTP Request,200,OK,Teste de Pico 2-107,text,true,,6715,235,240,269,https://blazedemo.com/purchase.php,657,0,340
+1776038246379,631,HTTP Request,200,OK,Teste de Pico 2-119,text,true,,6715,235,239,268,https://blazedemo.com/purchase.php,619,0,249
+1776038245950,1061,HTTP Request,200,OK,Teste de Pico 2-11,text,true,,6715,235,238,267,https://blazedemo.com/purchase.php,1048,0,626
+1776038246090,922,HTTP Request,200,OK,Teste de Pico 2-47,text,true,,6715,235,237,266,https://blazedemo.com/purchase.php,910,0,532
+1776038246390,627,HTTP Request,200,OK,Teste de Pico 2-122,text,true,,6715,235,236,266,https://blazedemo.com/purchase.php,618,0,267
+1776038246434,586,HTTP Request,200,OK,Teste de Pico 2-133,text,true,,6715,235,235,265,https://blazedemo.com/purchase.php,574,0,247
+1776038246070,951,HTTP Request,200,OK,Teste de Pico 2-42,text,true,,6715,235,234,264,https://blazedemo.com/purchase.php,939,0,531
+1776038246135,898,POST - Comprar Passagem,200,OK,Teste de Carga 1-8,text,true,,6715,235,30,263,https://blazedemo.com/purchase.php,882,0,531
+1776038246045,990,HTTP Request,200,OK,Teste de Pico 2-36,text,true,,6715,235,233,262,https://blazedemo.com/purchase.php,978,0,591
+1776038246245,795,HTTP Request,200,OK,Teste de Pico 2-86,text,true,,6715,235,232,261,https://blazedemo.com/purchase.php,778,0,401
+1776038246149,905,HTTP Request,200,OK,Teste de Pico 2-62,text,true,,6715,235,231,261,https://blazedemo.com/purchase.php,893,0,479
+1776038246265,793,HTTP Request,200,OK,Teste de Pico 2-91,text,true,,6715,235,230,260,https://blazedemo.com/purchase.php,777,0,311
+1776038246107,954,HTTP Request,200,OK,Teste de Pico 2-51,text,true,,6715,235,229,259,https://blazedemo.com/purchase.php,939,0,554
+1776038246077,986,HTTP Request,200,OK,Teste de Pico 2-44,text,true,,6715,235,228,258,https://blazedemo.com/purchase.php,974,0,516
+1776038246305,760,HTTP Request,200,OK,Teste de Pico 2-99,text,true,,6715,235,227,257,https://blazedemo.com/purchase.php,747,0,368
+1776038246210,856,HTTP Request,200,OK,Teste de Pico 2-77,text,true,,6715,235,226,256,https://blazedemo.com/purchase.php,844,0,366
+1776038245950,1117,HTTP Request,200,OK,Teste de Pico 2-9,text,true,,6715,235,226,256,https://blazedemo.com/purchase.php,1104,0,697
+1776038246110,961,HTTP Request,200,OK,Teste de Pico 2-52,text,true,,6715,235,224,254,https://blazedemo.com/purchase.php,949,0,583
+1776038246138,935,HTTP Request,200,OK,Teste de Pico 2-59,text,true,,6715,235,223,253,https://blazedemo.com/purchase.php,923,0,474
+1776038246002,1074,HTTP Request,200,OK,Teste de Pico 2-25,text,true,,6715,235,222,252,https://blazedemo.com/purchase.php,1057,0,647
+1776038246450,629,HTTP Request,200,OK,Teste de Pico 2-137,text,true,,6715,235,221,251,https://blazedemo.com/purchase.php,618,0,233
+1776038245953,1132,HTTP Request,200,OK,Teste de Pico 2-13,text,true,,6715,235,220,250,https://blazedemo.com/purchase.php,1116,0,634
+1776038245970,1118,HTTP Request,200,OK,Teste de Pico 2-17,text,true,,6715,235,219,249,https://blazedemo.com/purchase.php,1105,0,687
+1776038246418,670,HTTP Request,200,OK,Teste de Pico 2-129,text,true,,6715,235,218,248,https://blazedemo.com/purchase.php,658,0,259
+1776038246363,728,HTTP Request,200,OK,Teste de Pico 2-115,text,true,,6715,235,217,247,https://blazedemo.com/purchase.php,716,0,245
+1776038246255,844,HTTP Request,200,OK,Teste de Pico 2-88,text,true,,6715,235,216,247,https://blazedemo.com/purchase.php,832,0,371
+1776038246295,808,HTTP Request,200,OK,Teste de Pico 2-97,text,true,,6715,235,215,246,https://blazedemo.com/purchase.php,794,0,370
+1776038245951,1157,HTTP Request,200,OK,Teste de Pico 2-2,text,true,,6715,235,214,245,https://blazedemo.com/purchase.php,1141,0,658
+1776038246021,1090,HTTP Request,200,OK,Teste de Pico 2-30,text,true,,6715,235,213,244,https://blazedemo.com/purchase.php,1077,0,649
+1776038246469,644,HTTP Request,200,OK,Teste de Pico 2-142,text,true,,6715,235,212,243,https://blazedemo.com/purchase.php,633,0,217
+1776038245951,1167,HTTP Request,200,OK,Teste de Pico 2-1,text,true,,6715,235,211,242,https://blazedemo.com/purchase.php,1156,0,685
+1776038246221,900,HTTP Request,200,OK,Teste de Pico 2-80,text,true,,6715,235,210,241,https://blazedemo.com/purchase.php,889,0,475
+1776038246086,1038,HTTP Request,200,OK,Teste de Pico 2-46,text,true,,6715,235,209,240,https://blazedemo.com/purchase.php,1022,0,579
+1776038246006,1121,HTTP Request,200,OK,Teste de Pico 2-26,text,true,,6715,235,208,239,https://blazedemo.com/purchase.php,1109,0,587
+1776038245982,1147,HTTP Request,200,OK,Teste de Pico 2-20,text,true,,6715,235,207,238,https://blazedemo.com/purchase.php,1131,0,646
+1776038246066,1063,HTTP Request,200,OK,Teste de Pico 2-41,text,true,,6715,235,207,238,https://blazedemo.com/purchase.php,1051,0,601
+1776038246383,756,HTTP Request,200,OK,Teste de Pico 2-120,text,true,,6715,235,205,237,https://blazedemo.com/purchase.php,740,0,290
+1776038246310,831,HTTP Request,200,OK,Teste de Pico 2-102,text,true,,6715,235,204,236,https://blazedemo.com/purchase.php,812,0,337
+1776038246097,1053,HTTP Request,200,OK,Teste de Pico 2-49,text,true,,6715,235,203,235,https://blazedemo.com/purchase.php,1040,0,596
+1776038245957,1199,HTTP Request,200,OK,Teste de Pico 2-14,text,true,,6715,235,202,234,https://blazedemo.com/purchase.php,1182,0,697
+1776038246072,1086,HTTP Request,200,OK,Teste de Pico 2-43,text,true,,6715,235,201,233,https://blazedemo.com/purchase.php,1075,0,594
+1776038246513,650,HTTP Request,200,OK,Teste de Pico 2-153,text,true,,6715,235,200,232,https://blazedemo.com/purchase.php,638,0,174
+1776038246386,779,HTTP Request,200,OK,Teste de Pico 2-121,text,true,,6715,235,199,231,https://blazedemo.com/purchase.php,767,0,259
+1776038245951,1215,HTTP Request,200,OK,Teste de Pico 2-4,text,true,,6715,235,198,230,https://blazedemo.com/purchase.php,1203,0,699
+1776038246262,907,HTTP Request,200,OK,Teste de Pico 2-90,text,true,,6715,235,197,229,https://blazedemo.com/purchase.php,895,0,407
+1776038246510,670,HTTP Request,200,OK,Teste de Pico 2-152,text,true,,6715,235,196,229,https://blazedemo.com/purchase.php,654,0,175
+1776038246038,1142,HTTP Request,200,OK,Teste de Pico 2-34,text,true,,6715,235,196,229,https://blazedemo.com/purchase.php,1130,0,628
+1776038246233,957,HTTP Request,200,OK,Teste de Pico 2-83,text,true,,6715,235,194,227,https://blazedemo.com/purchase.php,945,0,425
+1776038246176,1018,POST - Comprar Passagem,200,OK,Teste de Carga 1-9,text,true,,6715,235,33,226,https://blazedemo.com/purchase.php,1006,0,468
+1776038246521,679,HTTP Request,200,OK,Teste de Pico 2-155,text,true,,6715,235,193,225,https://blazedemo.com/purchase.php,666,0,171
+1776038246134,1067,HTTP Request,200,OK,Teste de Pico 2-58,text,true,,6715,235,192,224,https://blazedemo.com/purchase.php,1051,0,560
+1776038246226,977,HTTP Request,200,OK,Teste de Pico 2-81,text,true,,6715,235,191,223,https://blazedemo.com/purchase.php,965,0,443
+1776038246166,1038,HTTP Request,200,OK,Teste de Pico 2-66,text,true,,6715,235,190,222,https://blazedemo.com/purchase.php,1026,0,490
+1776038246501,707,HTTP Request,200,OK,Teste de Pico 2-150,text,true,,6715,235,189,221,https://blazedemo.com/purchase.php,694,0,185
+1776038246735,474,POST - Comprar Passagem,200,OK,Teste de Carga 1-23,text,true,,6715,235,32,220,https://blazedemo.com/purchase.php,461,0,171
+1776038246457,764,HTTP Request,200,OK,Teste de Pico 2-139,text,true,,6715,235,188,220,https://blazedemo.com/purchase.php,747,0,224
+1776038246282,940,HTTP Request,200,OK,Teste de Pico 2-94,text,true,,6715,235,187,219,https://blazedemo.com/purchase.php,928,0,379
+1776038246506,722,HTTP Request,200,OK,Teste de Pico 2-151,text,true,,6715,235,186,218,https://blazedemo.com/purchase.php,710,0,179
+1776038245950,1281,HTTP Request,200,OK,Teste de Pico 2-5,text,true,,6715,235,185,217,https://blazedemo.com/purchase.php,1269,0,717
+1776038246810,428,HTTP Request,200,OK,Teste de Pico 2-227,text,true,,6715,235,184,216,https://blazedemo.com/purchase.php,412,0,157
+1776038245998,1245,HTTP Request,200,OK,Teste de Pico 2-24,text,true,,6715,235,183,215,https://blazedemo.com/purchase.php,1233,0,648
+1776038246421,833,HTTP Request,200,OK,Teste de Pico 2-130,text,true,,6715,235,182,215,https://blazedemo.com/purchase.php,821,0,259
+1776038246305,958,HTTP Request,200,OK,Teste de Pico 2-100,text,true,,6715,235,181,214,https://blazedemo.com/purchase.php,946,0,377
+1776038246117,1152,HTTP Request,200,OK,Teste de Pico 2-54,text,true,,6715,235,180,213,https://blazedemo.com/purchase.php,1139,0,553
+1776038246335,935,HTTP Request,200,OK,Teste de Pico 2-108,text,true,,6715,235,179,212,https://blazedemo.com/purchase.php,919,0,334
+1776038246015,1258,POST - Comprar Passagem,200,OK,Teste de Carga 1-5,text,true,,6715,235,33,211,https://blazedemo.com/purchase.php,1246,0,679
+1776038245950,1325,HTTP Request,200,OK,Teste de Pico 2-7,text,true,,6715,235,178,210,https://blazedemo.com/purchase.php,1313,0,706
+1776038246255,1021,POST - Comprar Passagem,200,OK,Teste de Carga 1-11,text,true,,6715,235,32,209,https://blazedemo.com/purchase.php,1009,0,409
+1776038246454,830,POST - Comprar Passagem,200,OK,Teste de Carga 1-16,text,true,,6715,235,31,208,https://blazedemo.com/purchase.php,818,0,234
+1776038246170,1115,HTTP Request,200,OK,Teste de Pico 2-67,text,true,,6715,235,177,207,https://blazedemo.com/purchase.php,1103,0,421
+1776038246754,533,HTTP Request,200,OK,Teste de Pico 2-213,text,true,,6715,235,176,206,https://blazedemo.com/purchase.php,517,0,156
+1776038245990,1299,HTTP Request,200,OK,Teste de Pico 2-22,text,true,,6715,235,175,205,https://blazedemo.com/purchase.php,1287,0,787
+1776038246517,777,HTTP Request,200,OK,Teste de Pico 2-154,text,true,,6715,235,174,205,https://blazedemo.com/purchase.php,766,0,170
+1776038246213,1085,HTTP Request,200,OK,Teste de Pico 2-78,text,true,,6715,235,173,204,https://blazedemo.com/purchase.php,1072,0,452
+1776038246273,1030,HTTP Request,200,OK,Teste de Pico 2-92,text,true,,6715,235,172,203,https://blazedemo.com/purchase.php,1018,0,395
+1776038246677,629,HTTP Request,200,OK,Teste de Pico 2-188,text,true,,6715,235,171,202,https://blazedemo.com/purchase.php,617,0,169
+1776038245951,1363,POST - Comprar Passagem,200,OK,Teste de Carga 1-1,text,true,,6715,235,31,201,https://blazedemo.com/purchase.php,1351,0,739
+1776038246114,1201,HTTP Request,200,OK,Teste de Pico 2-53,text,true,,6715,235,170,200,https://blazedemo.com/purchase.php,1189,0,580
+1776038246093,1223,HTTP Request,200,OK,Teste de Pico 2-48,text,true,,6715,235,169,199,https://blazedemo.com/purchase.php,1211,0,548
+1776038246882,439,HTTP Request,200,OK,Teste de Pico 2-245,text,true,,6715,235,168,198,https://blazedemo.com/purchase.php,424,0,157
+1776038246696,629,POST - Comprar Passagem,200,OK,Teste de Carga 1-20,text,true,,6715,235,30,197,https://blazedemo.com/purchase.php,613,0,157
+1776038246300,1031,POST - Comprar Passagem,200,OK,Teste de Carga 1-12,text,true,,6715,235,29,196,https://blazedemo.com/purchase.php,1019,0,363
+1776038246336,996,POST - Comprar Passagem,200,OK,Teste de Carga 1-13,text,true,,6715,235,28,195,https://blazedemo.com/purchase.php,984,0,355
+1776038246453,882,HTTP Request,200,OK,Teste de Pico 2-138,text,true,,6715,235,167,194,https://blazedemo.com/purchase.php,870,0,243
+1776038246569,769,HTTP Request,200,OK,Teste de Pico 2-165,text,true,,6715,235,166,194,https://blazedemo.com/purchase.php,756,0,259
+1776038246697,643,POST - Comprar Passagem,200,OK,Teste de Carga 1-22,text,true,,6715,235,28,193,https://blazedemo.com/purchase.php,627,0,157
+1776038246354,990,HTTP Request,200,OK,Teste de Pico 2-113,text,true,,6715,235,165,192,https://blazedemo.com/purchase.php,978,0,323
+1776038246699,653,HTTP Request,200,OK,Teste de Pico 2-190,text,true,,6715,235,164,191,https://blazedemo.com/purchase.php,641,0,166
+1776038246478,877,HTTP Request,200,OK,Teste de Pico 2-144,text,true,,6715,235,163,190,https://blazedemo.com/purchase.php,865,0,218
+1776038246282,1079,HTTP Request,200,OK,Teste de Pico 2-95,text,true,,6715,235,162,189,https://blazedemo.com/purchase.php,1067,0,394
+1776038246438,928,HTTP Request,200,OK,Teste de Pico 2-134,text,true,,6715,235,161,188,https://blazedemo.com/purchase.php,916,0,242
+1776038245950,1417,POST - Comprar Passagem,200,OK,Teste de Carga 1-3,text,true,,6715,235,27,187,https://blazedemo.com/purchase.php,1404,0,689
+1776038246374,993,POST - Comprar Passagem,200,OK,Teste de Carga 1-14,text,true,,6715,235,26,186,https://blazedemo.com/purchase.php,979,0,317
+1776038246693,689,HTTP Request,200,OK,Teste de Pico 2-191,text,true,,6715,235,160,186,https://blazedemo.com/purchase.php,677,0,167
+1776038246407,977,HTTP Request,200,OK,Teste de Pico 2-126,text,true,,6715,235,159,185,https://blazedemo.com/purchase.php,964,0,297
+1776038246461,925,HTTP Request,200,OK,Teste de Pico 2-140,text,true,,6715,235,158,184,https://blazedemo.com/purchase.php,912,0,221
+1776038246695,696,HTTP Request,200,OK,Teste de Pico 2-197,text,true,,6715,235,157,183,https://blazedemo.com/purchase.php,683,0,166
+1776038246672,735,HTTP Request,200,OK,Teste de Pico 2-176,text,true,,6715,235,156,182,https://blazedemo.com/purchase.php,722,0,185
+1776038246465,946,HTTP Request,200,OK,Teste de Pico 2-141,text,true,,6715,235,155,181,https://blazedemo.com/purchase.php,934,0,220
+1776038245950,1462,HTTP Request,200,OK,Teste de Pico 2-10,text,true,,6715,235,154,180,https://blazedemo.com/purchase.php,1450,0,714
+1776038245951,1463,HTTP Request,200,OK,Teste de Pico 2-6,text,true,,6715,235,153,180,https://blazedemo.com/purchase.php,1450,0,928
+1776038246010,1407,HTTP Request,200,OK,Teste de Pico 2-27,text,true,,6715,235,152,179,https://blazedemo.com/purchase.php,1395,0,683
+1776038246216,1201,HTTP Request,200,OK,Teste de Pico 2-79,text,true,,6715,235,152,179,https://blazedemo.com/purchase.php,1189,0,361
+1776038246789,635,HTTP Request,200,OK,Teste de Pico 2-222,text,true,,6715,235,150,177,https://blazedemo.com/purchase.php,623,0,156
+1776038246730,694,HTTP Request,200,OK,Teste de Pico 2-207,text,true,,6715,235,150,177,https://blazedemo.com/purchase.php,682,0,156
+1776038246694,732,HTTP Request,200,OK,Teste de Pico 2-185,text,true,,6715,235,148,175,https://blazedemo.com/purchase.php,719,0,166
+1776038246719,711,HTTP Request,200,OK,Teste de Pico 2-204,text,true,,6715,235,147,174,https://blazedemo.com/purchase.php,699,0,159
+1776038246429,1001,HTTP Request,200,OK,Teste de Pico 2-132,text,true,,6715,235,147,174,https://blazedemo.com/purchase.php,989,0,251
+1776038246409,1027,HTTP Request,200,OK,Teste de Pico 2-127,text,true,,6715,235,145,172,https://blazedemo.com/purchase.php,1015,0,296
+1776038246575,869,HTTP Request,200,OK,Teste de Pico 2-168,text,true,,6715,235,144,171,https://blazedemo.com/purchase.php,853,0,262
+1776038246025,1421,HTTP Request,200,OK,Teste de Pico 2-31,text,true,,6715,235,143,170,https://blazedemo.com/purchase.php,1408,0,554
+1776038245965,1483,HTTP Request,200,OK,Teste de Pico 2-16,text,true,,6715,235,142,169,https://blazedemo.com/purchase.php,1470,0,699
+1776038246055,1401,POST - Comprar Passagem,200,OK,Teste de Carga 1-6,text,true,,6715,235,28,169,https://blazedemo.com/purchase.php,1388,0,638
+1776038246258,1202,HTTP Request,200,OK,Teste de Pico 2-89,text,true,,6715,235,141,168,https://blazedemo.com/purchase.php,1190,0,340
+1776038246286,1176,HTTP Request,200,OK,Teste de Pico 2-96,text,true,,6715,235,140,167,https://blazedemo.com/purchase.php,1163,0,387
+1776038246707,755,HTTP Request,200,OK,Teste de Pico 2-201,text,true,,6715,235,139,166,https://blazedemo.com/purchase.php,743,0,156
+1776038246103,1366,HTTP Request,200,OK,Teste de Pico 2-50,text,true,,6715,235,138,165,https://blazedemo.com/purchase.php,1350,0,764
+1776038246725,754,HTTP Request,200,OK,Teste de Pico 2-206,text,true,,6715,235,137,164,https://blazedemo.com/purchase.php,743,0,156
+1776038246482,999,HTTP Request,200,OK,Teste de Pico 2-145,text,true,,6715,235,136,163,https://blazedemo.com/purchase.php,987,0,206
+1776038246778,704,HTTP Request,200,OK,Teste de Pico 2-219,text,true,,6715,235,135,162,https://blazedemo.com/purchase.php,692,0,154
+1776038246351,1134,HTTP Request,200,OK,Teste de Pico 2-112,text,true,,6715,235,134,161,https://blazedemo.com/purchase.php,1121,0,327
+1776038246709,792,HTTP Request,200,OK,Teste de Pico 2-200,text,true,,6715,235,133,161,https://blazedemo.com/purchase.php,776,0,157
+1776038246173,1332,HTTP Request,200,OK,Teste de Pico 2-68,text,true,,6715,235,132,160,https://blazedemo.com/purchase.php,1320,0,725
+1776038246473,1036,HTTP Request,200,OK,Teste de Pico 2-143,text,true,,6715,235,131,159,https://blazedemo.com/purchase.php,1024,0,210
+1776038246797,714,HTTP Request,200,OK,Teste de Pico 2-224,text,true,,6715,235,130,158,https://blazedemo.com/purchase.php,702,0,163
+1776038246714,797,HTTP Request,200,OK,Teste de Pico 2-203,text,true,,6715,235,130,158,https://blazedemo.com/purchase.php,785,0,167
+1776038246850,664,HTTP Request,200,OK,Teste de Pico 2-237,text,true,,6715,235,128,156,https://blazedemo.com/purchase.php,653,0,157
+1776038246082,1440,HTTP Request,200,OK,Teste de Pico 2-45,text,true,,6715,235,127,155,https://blazedemo.com/purchase.php,1427,0,611
+1776038246737,785,HTTP Request,200,OK,Teste de Pico 2-209,text,true,,6715,235,127,155,https://blazedemo.com/purchase.php,773,0,164
+1776038246329,1196,HTTP Request,200,OK,Teste de Pico 2-104,text,true,,6715,235,125,153,https://blazedemo.com/purchase.php,1184,0,343
+1776038246366,1163,HTTP Request,200,OK,Teste de Pico 2-116,text,true,,6715,235,124,152,https://blazedemo.com/purchase.php,1150,0,310
+1776038246733,796,HTTP Request,200,OK,Teste de Pico 2-208,text,true,,6715,235,124,152,https://blazedemo.com/purchase.php,784,0,155
+1776038246202,1328,HTTP Request,200,OK,Teste de Pico 2-75,text,true,,6715,235,122,150,https://blazedemo.com/purchase.php,1317,0,396
+1776038246300,1231,HTTP Request,200,OK,Teste de Pico 2-98,text,true,,6715,235,121,149,https://blazedemo.com/purchase.php,1218,0,396
+1776038246694,847,HTTP Request,200,OK,Teste de Pico 2-177,text,true,,6715,235,120,149,https://blazedemo.com/purchase.php,836,0,161
+1776038246571,972,HTTP Request,200,OK,Teste de Pico 2-166,text,true,,6715,235,119,148,https://blazedemo.com/purchase.php,959,0,257
+1776038246029,1516,HTTP Request,200,OK,Teste de Pico 2-32,text,true,,6715,235,118,147,https://blazedemo.com/purchase.php,1504,0,660
+1776038246834,719,HTTP Request,200,OK,Teste de Pico 2-233,text,true,,6715,235,117,146,https://blazedemo.com/purchase.php,707,0,163
+1776038246486,1067,HTTP Request,200,OK,Teste de Pico 2-146,text,true,,6715,235,117,146,https://blazedemo.com/purchase.php,1055,0,202
+1776038246774,782,HTTP Request,200,OK,Teste de Pico 2-218,text,true,,6715,235,115,144,https://blazedemo.com/purchase.php,769,0,164
+1776038246402,1160,HTTP Request,200,OK,Teste de Pico 2-125,text,true,,6715,235,114,143,https://blazedemo.com/purchase.php,1143,0,284
+1776038245985,1581,HTTP Request,200,OK,Teste de Pico 2-21,text,true,,6715,235,113,142,https://blazedemo.com/purchase.php,1568,0,708
+1776038246750,830,HTTP Request,200,OK,Teste de Pico 2-212,text,true,,6715,235,112,142,https://blazedemo.com/purchase.php,817,0,156
+1776038246495,1097,POST - Comprar Passagem,200,OK,Teste de Carga 1-17,text,true,,6715,235,30,141,https://blazedemo.com/purchase.php,1086,0,192
+1776038246251,1347,HTTP Request,200,OK,Teste de Pico 2-87,text,true,,6715,235,111,140,https://blazedemo.com/purchase.php,1334,0,437
+1776038245950,1651,HTTP Request,200,OK,Teste de Pico 2-8,text,true,,6715,235,110,139,https://blazedemo.com/purchase.php,1635,0,672
+1776038246536,1067,POST - Comprar Passagem,200,OK,Teste de Carga 1-18,text,true,,6715,235,29,138,https://blazedemo.com/purchase.php,1055,0,461
+1776038246770,845,HTTP Request,200,OK,Teste de Pico 2-217,text,true,,6715,235,109,138,https://blazedemo.com/purchase.php,833,0,164
+1776038245976,1644,POST - Comprar Passagem,200,OK,Teste de Carga 1-4,text,true,,6715,235,29,137,https://blazedemo.com/purchase.php,1633,0,655
+1776038246669,952,HTTP Request,200,OK,Teste de Pico 2-169,text,true,,6715,235,108,136,https://blazedemo.com/purchase.php,940,0,185
+1776038246761,861,HTTP Request,200,OK,Teste de Pico 2-215,text,true,,6715,235,107,135,https://blazedemo.com/purchase.php,849,0,155
+1776038246096,1526,POST - Comprar Passagem,200,OK,Teste de Carga 1-7,text,true,,6715,235,28,135,https://blazedemo.com/purchase.php,1513,0,598
+1776038246774,849,POST - Comprar Passagem,200,OK,Teste de Carga 1-24,text,true,,6715,235,27,133,https://blazedemo.com/purchase.php,836,0,155
+1776038246050,1576,HTTP Request,200,OK,Teste de Pico 2-37,text,true,,6715,235,106,132,https://blazedemo.com/purchase.php,1564,0,641
+1776038246785,848,HTTP Request,200,OK,Teste de Pico 2-221,text,true,,6715,235,105,131,https://blazedemo.com/purchase.php,835,0,282
+1776038246370,1264,HTTP Request,200,OK,Teste de Pico 2-117,text,true,,6715,235,104,130,https://blazedemo.com/purchase.php,1252,0,333
+1776038246843,792,HTTP Request,200,OK,Teste de Pico 2-235,text,true,,6715,235,103,129,https://blazedemo.com/purchase.php,779,0,156
+1776038246692,944,HTTP Request,200,OK,Teste de Pico 2-179,text,true,,6715,235,102,128,https://blazedemo.com/purchase.php,932,0,271
+1776038246446,1193,HTTP Request,200,OK,Teste de Pico 2-136,text,true,,6715,235,101,127,https://blazedemo.com/purchase.php,1180,0,237
+1776038246547,1098,HTTP Request,200,OK,Teste de Pico 2-160,text,true,,6715,235,100,126,https://blazedemo.com/purchase.php,1086,0,466
+1776038246746,902,HTTP Request,200,OK,Teste de Pico 2-211,text,true,,6715,235,99,125,https://blazedemo.com/purchase.php,890,0,165
+1776038246034,1617,HTTP Request,200,OK,Teste de Pico 2-33,text,true,,6715,235,98,124,https://blazedemo.com/purchase.php,1605,0,833
+1776038246126,1548,HTTP Request,200,OK,Teste de Pico 2-56,text,true,,6715,235,97,124,https://blazedemo.com/purchase.php,1536,0,569
+1776038246194,1480,HTTP Request,200,OK,Teste de Pico 2-73,text,true,,6715,235,97,124,https://blazedemo.com/purchase.php,1469,0,453
+1776038246814,870,POST - Comprar Passagem,200,OK,Teste de Carga 1-25,text,true,,6715,235,27,122,https://blazedemo.com/purchase.php,854,0,156
+1776038246397,1299,HTTP Request,200,OK,Teste de Pico 2-123,text,true,,6715,235,95,122,https://blazedemo.com/purchase.php,1286,0,308
+1776038246205,1492,HTTP Request,200,OK,Teste de Pico 2-76,text,true,,6715,235,94,121,https://blazedemo.com/purchase.php,1474,0,491
+1776038246182,1518,HTTP Request,200,OK,Teste de Pico 2-70,text,true,,6715,235,93,120,https://blazedemo.com/purchase.php,1506,0,513
+1776038246856,847,POST - Comprar Passagem,200,OK,Teste de Carga 1-26,text,true,,6715,235,27,119,https://blazedemo.com/purchase.php,835,0,163
+1776038246802,908,HTTP Request,200,OK,Teste de Pico 2-225,text,true,,6715,235,92,118,https://blazedemo.com/purchase.php,896,0,156
+1776038246575,1135,HTTP Request,200,OK,Teste de Pico 2-167,text,true,,6715,235,92,118,https://blazedemo.com/purchase.php,1122,0,260
+1776038246041,1669,HTTP Request,200,OK,Teste de Pico 2-35,text,true,,6715,235,92,118,https://blazedemo.com/purchase.php,1657,0,837
+1776038246537,1178,HTTP Request,200,OK,Teste de Pico 2-159,text,true,,6715,235,89,115,https://blazedemo.com/purchase.php,1165,0,465
+1776038246898,838,HTTP Request,200,OK,Teste de Pico 2-249,text,true,,6715,235,88,115,https://blazedemo.com/purchase.php,827,0,155
+1776038246807,936,HTTP Request,200,OK,Teste de Pico 2-226,text,true,,6715,235,87,114,https://blazedemo.com/purchase.php,924,0,156
+1776038246793,965,HTTP Request,200,OK,Teste de Pico 2-223,text,true,,6715,235,86,113,https://blazedemo.com/purchase.php,954,0,165
+1776038246200,1561,HTTP Request,200,OK,Teste de Pico 2-74,text,true,,6715,235,85,112,https://blazedemo.com/purchase.php,1549,0,465
+1776038245950,1815,HTTP Request,200,OK,Teste de Pico 2-12,text,true,,6715,235,84,111,https://blazedemo.com/purchase.php,1803,0,739
+1776038246571,1203,HTTP Request,200,OK,Teste de Pico 2-162,text,true,,6715,235,83,111,https://blazedemo.com/purchase.php,1190,0,271
+1776038247173,607,POST - Comprar Passagem,200,OK,Teste de Carga 1-34,text,true,,6715,235,28,110,https://blazedemo.com/purchase.php,595,0,158
+1776038246693,1100,HTTP Request,200,OK,Teste de Pico 2-192,text,true,,6715,235,82,109,https://blazedemo.com/purchase.php,1088,0,167
+1776038246697,1102,HTTP Request,200,OK,Teste de Pico 2-178,text,true,,6715,235,81,108,https://blazedemo.com/purchase.php,1091,0,274
+1776038246874,926,HTTP Request,200,OK,Teste de Pico 2-243,text,true,,6715,235,80,107,https://blazedemo.com/purchase.php,914,0,155
+1776038246858,947,HTTP Request,200,OK,Teste de Pico 2-239,text,true,,6715,235,79,106,https://blazedemo.com/purchase.php,935,0,167
+1776038245951,1863,HTTP Request,200,OK,Teste de Pico 2-3,text,true,,6715,235,78,105,https://blazedemo.com/purchase.php,1851,0,720
+1776038247413,405,POST - Comprar Passagem,200,OK,Teste de Carga 1-40,text,true,,6715,235,28,105,https://blazedemo.com/purchase.php,393,0,154
+1776038246694,1135,HTTP Request,200,OK,Teste de Pico 2-172,text,true,,6715,235,77,104,https://blazedemo.com/purchase.php,1123,0,166
+1776038246443,1391,HTTP Request,200,OK,Teste de Pico 2-135,text,true,,6715,235,76,103,https://blazedemo.com/purchase.php,1381,0,241
+1776038246593,1260,HTTP Request,200,OK,Teste de Pico 2-171,text,true,,6715,235,75,102,https://blazedemo.com/purchase.php,1249,0,240
+1776038246826,1035,HTTP Request,200,OK,Teste de Pico 2-231,text,true,,6715,235,74,102,https://blazedemo.com/purchase.php,1023,0,158
+1776038246121,1746,HTTP Request,200,OK,Teste de Pico 2-55,text,true,,6715,235,73,101,https://blazedemo.com/purchase.php,1735,0,756
+1776038246533,1338,HTTP Request,200,OK,Teste de Pico 2-158,text,true,,6715,235,72,100,https://blazedemo.com/purchase.php,1325,0,285
+1776038246493,1379,HTTP Request,200,OK,Teste de Pico 2-148,text,true,,6715,235,71,99,https://blazedemo.com/purchase.php,1368,0,272
+1776038246130,1743,HTTP Request,200,OK,Teste de Pico 2-57,text,true,,6715,235,70,98,https://blazedemo.com/purchase.php,1731,0,749
+1776038247134,752,POST - Comprar Passagem,200,OK,Teste de Carga 1-33,text,true,,6715,235,28,97,https://blazedemo.com/purchase.php,740,0,155
+1776038246328,1564,HTTP Request,200,OK,Teste de Pico 2-103,text,true,,6715,235,69,96,https://blazedemo.com/purchase.php,1551,0,339
+1776038246862,1031,HTTP Request,200,OK,Teste de Pico 2-240,text,true,,6715,235,68,96,https://blazedemo.com/purchase.php,1018,0,154
+1776038246698,1201,POST - Comprar Passagem,200,OK,Teste de Carga 1-21,text,true,,6715,235,28,95,https://blazedemo.com/purchase.php,1185,0,164
+1776038246698,1210,HTTP Request,200,OK,Teste de Pico 2-195,text,true,,6715,235,67,94,https://blazedemo.com/purchase.php,1198,0,726
+1776038246525,1389,HTTP Request,200,OK,Teste de Pico 2-156,text,true,,6715,235,66,93,https://blazedemo.com/purchase.php,1376,0,293
+1776038246673,1255,HTTP Request,200,OK,Teste de Pico 2-182,text,true,,6715,235,65,92,https://blazedemo.com/purchase.php,1243,0,181
+1776038246546,1384,HTTP Request,200,OK,Teste de Pico 2-161,text,true,,6715,235,64,91,https://blazedemo.com/purchase.php,1371,0,463
+1776038246866,1073,HTTP Request,200,OK,Teste de Pico 2-241,text,true,,6715,235,63,91,https://blazedemo.com/purchase.php,1061,0,276
+1776038247534,406,POST - Comprar Passagem,200,OK,Teste de Carga 1-43,text,true,,6715,235,28,90,https://blazedemo.com/purchase.php,394,0,156
+1776038246342,1623,HTTP Request,200,OK,Teste de Pico 2-109,text,true,,6715,235,62,89,https://blazedemo.com/purchase.php,1611,0,328
+1776038246699,1269,HTTP Request,200,OK,Teste de Pico 2-183,text,true,,6715,235,61,88,https://blazedemo.com/purchase.php,1256,0,726
+1776038246697,1287,HTTP Request,200,OK,Teste de Pico 2-184,text,true,,6715,235,60,88,https://blazedemo.com/purchase.php,1276,0,786
+1776038246893,1108,HTTP Request,200,OK,Teste de Pico 2-248,text,true,,6715,235,59,87,https://blazedemo.com/purchase.php,1097,0,154
+1776038246057,1954,HTTP Request,200,OK,Teste de Pico 2-39,text,true,,6715,235,58,86,https://blazedemo.com/purchase.php,1940,0,809
+1776038246846,1165,HTTP Request,200,OK,Teste de Pico 2-236,text,true,,6715,235,58,86,https://blazedemo.com/purchase.php,1153,0,155
+1776038246690,1327,HTTP Request,200,OK,Teste de Pico 2-173,text,true,,6715,235,56,85,https://blazedemo.com/purchase.php,1311,0,273
+1776038247614,419,POST - Comprar Passagem,200,OK,Teste de Carga 1-45,text,true,,6715,235,29,84,https://blazedemo.com/purchase.php,406,0,155
+1776038246053,1983,HTTP Request,200,OK,Teste de Pico 2-38,text,true,,6715,235,55,83,https://blazedemo.com/purchase.php,1970,0,641
+1776038246677,1376,HTTP Request,200,OK,Teste de Pico 2-193,text,true,,6715,235,54,82,https://blazedemo.com/purchase.php,1364,0,171
+1776038246655,1423,HTTP Request,200,OK,Teste de Pico 2-164,text,true,,6715,235,53,82,https://blazedemo.com/purchase.php,1411,0,191
+1776038247655,433,POST - Comprar Passagem,200,OK,Teste de Carga 1-46,text,true,,6715,235,29,81,https://blazedemo.com/purchase.php,421,0,155
+1776038246672,1429,HTTP Request,200,OK,Teste de Pico 2-175,text,true,,6715,235,52,81,https://blazedemo.com/purchase.php,1413,0,183
+1776038247694,410,POST - Comprar Passagem,200,OK,Teste de Carga 1-47,text,true,,6715,235,29,80,https://blazedemo.com/purchase.php,393,0,157
+1776038246157,1949,HTTP Request,200,OK,Teste de Pico 2-64,text,true,,6715,235,51,79,https://blazedemo.com/purchase.php,1937,0,530
+1776038246766,1346,HTTP Request,200,OK,Teste de Pico 2-216,text,true,,6715,235,50,78,https://blazedemo.com/purchase.php,1334,0,155
+1776038246018,2098,HTTP Request,200,OK,Teste de Pico 2-29,text,false,"The operation lasted too long: It took 2,098 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,49,77,https://blazedemo.com/purchase.php,2085,0,643
+1776038245993,2123,HTTP Request,200,OK,Teste de Pico 2-23,text,false,"The operation lasted too long: It took 2,123 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,49,77,https://blazedemo.com/purchase.php,2111,0,680
+1776038246813,1315,HTTP Request,200,OK,Teste de Pico 2-228,text,true,,6715,235,47,75,https://blazedemo.com/purchase.php,1303,0,154
+1776038246216,1921,POST - Comprar Passagem,200,OK,Teste de Carga 1-10,text,true,,6715,235,29,75,https://blazedemo.com/purchase.php,1909,0,724
+1776038246822,1369,HTTP Request,200,OK,Teste de Pico 2-230,text,true,,6715,235,46,75,https://blazedemo.com/purchase.php,1356,0,154
+1776038247574,654,POST - Comprar Passagem,200,OK,Teste de Carga 1-44,text,true,,6715,235,30,75,https://blazedemo.com/purchase.php,643,0,157
+1776038247494,740,POST - Comprar Passagem,200,OK,Teste de Carga 1-42,text,true,,6715,235,29,74,https://blazedemo.com/purchase.php,724,0,275
+1776038246347,1889,HTTP Request,200,OK,Teste de Pico 2-106,text,true,,6715,235,45,73,https://blazedemo.com/purchase.php,1872,0,330
+1776038246698,1545,HTTP Request,200,OK,Teste de Pico 2-189,text,true,,6715,235,44,72,https://blazedemo.com/purchase.php,1534,0,722
+1776038246489,1763,HTTP Request,200,OK,Teste de Pico 2-147,text,true,,6715,235,43,71,https://blazedemo.com/purchase.php,1752,0,198
+1776038246829,1431,HTTP Request,200,OK,Teste de Pico 2-232,text,true,,6715,235,42,71,https://blazedemo.com/purchase.php,1414,0,162
+1776038246720,1540,HTTP Request,200,OK,Teste de Pico 2-205,text,true,,6715,235,41,70,https://blazedemo.com/purchase.php,1528,0,156
+1776038246741,1529,HTTP Request,200,OK,Teste de Pico 2-210,text,true,,6715,235,40,69,https://blazedemo.com/purchase.php,1517,0,275
+1776038246163,2147,HTTP Request,200,OK,Teste de Pico 2-65,text,false,"The operation lasted too long: It took 2,147 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,39,69,https://blazedemo.com/purchase.php,2135,0,981
+1776038247893,423,POST - Comprar Passagem,200,OK,Teste de Carga 1-52,text,true,,6715,235,30,68,https://blazedemo.com/purchase.php,407,0,155
+1776038247733,588,POST - Comprar Passagem,200,OK,Teste de Carga 1-48,text,true,,6715,235,30,68,https://blazedemo.com/purchase.php,570,0,156
+1776038246890,1431,HTTP Request,200,OK,Teste de Pico 2-247,text,true,,6715,235,38,68,https://blazedemo.com/purchase.php,1413,0,154
+1776038246817,1510,HTTP Request,200,OK,Teste de Pico 2-229,text,true,,6715,235,37,65,https://blazedemo.com/purchase.php,1498,0,724
+1776038246375,1972,HTTP Request,200,OK,Teste de Pico 2-118,text,true,,6715,235,36,65,https://blazedemo.com/purchase.php,1960,0,245
+1776038246414,1941,POST - Comprar Passagem,200,OK,Teste de Carga 1-15,text,true,,6715,235,29,64,https://blazedemo.com/purchase.php,1929,0,278
+1776038246693,1663,HTTP Request,200,OK,Teste de Pico 2-186,text,true,,6715,235,35,63,https://blazedemo.com/purchase.php,1651,0,170
+1776038246242,2116,HTTP Request,200,OK,Teste de Pico 2-85,text,false,"The operation lasted too long: It took 2,116 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,34,62,https://blazedemo.com/purchase.php,2104,0,452
+1776038246351,2008,HTTP Request,200,OK,Teste de Pico 2-111,text,false,"The operation lasted too long: It took 2,008 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,33,61,https://blazedemo.com/purchase.php,1995,0,1145
+1776038247933,442,POST - Comprar Passagem,200,OK,Teste de Carga 1-53,text,true,,6715,235,29,61,https://blazedemo.com/purchase.php,430,0,158
+1776038246974,1403,POST - Comprar Passagem,200,OK,Teste de Carga 1-29,text,true,,6715,235,28,60,https://blazedemo.com/purchase.php,1391,0,153
+1776038246187,2198,HTTP Request,200,OK,Teste de Pico 2-71,text,false,"The operation lasted too long: It took 2,198 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,32,59,https://blazedemo.com/purchase.php,2186,0,475
+1776038246901,1491,HTTP Request,200,OK,Teste de Pico 2-250,text,true,,6715,235,31,58,https://blazedemo.com/purchase.php,1479,0,166
+1776038247854,539,POST - Comprar Passagem,200,OK,Teste de Carga 1-51,text,true,,6715,235,27,57,https://blazedemo.com/purchase.php,527,0,270
+1776038246886,1523,HTTP Request,200,OK,Teste de Pico 2-246,text,true,,6715,235,30,56,https://blazedemo.com/purchase.php,1506,0,155
+1776038248014,430,POST - Comprar Passagem,200,OK,Teste de Carga 1-55,text,true,,6715,235,27,56,https://blazedemo.com/purchase.php,413,0,155
+1776038247094,1352,POST - Comprar Passagem,200,OK,Teste de Carga 1-32,text,true,,6715,235,26,55,https://blazedemo.com/purchase.php,1340,0,162
+1776038246015,2454,HTTP Request,200,OK,Teste de Pico 2-28,text,false,"The operation lasted too long: It took 2,454 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,29,55,https://blazedemo.com/purchase.php,2442,0,655
+1776038246347,2130,HTTP Request,200,OK,Teste de Pico 2-105,text,false,"The operation lasted too long: It took 2,130 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,28,54,https://blazedemo.com/purchase.php,2118,0,356
+1776038246413,2067,HTTP Request,200,OK,Teste de Pico 2-128,text,false,"The operation lasted too long: It took 2,067 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,27,53,https://blazedemo.com/purchase.php,2055,0,290
+1776038246425,2068,HTTP Request,200,OK,Teste de Pico 2-131,text,false,"The operation lasted too long: It took 2,068 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,26,53,https://blazedemo.com/purchase.php,2056,0,253
+1776038246697,1822,HTTP Request,200,OK,Teste de Pico 2-199,text,true,,6715,235,25,52,https://blazedemo.com/purchase.php,1810,0,724
+1776038246343,2237,HTTP Request,200,OK,Teste de Pico 2-110,text,false,"The operation lasted too long: It took 2,237 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,24,53,https://blazedemo.com/purchase.php,2225,0,327
+1776038246147,2438,HTTP Request,200,OK,Teste de Pico 2-61,text,false,"The operation lasted too long: It took 2,438 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,23,52,https://blazedemo.com/purchase.php,2426,0,555
+1776038246696,1904,HTTP Request,200,OK,Teste de Pico 2-198,text,true,,6715,235,22,51,https://blazedemo.com/purchase.php,1892,0,160
+1776038246757,1844,HTTP Request,200,OK,Teste de Pico 2-214,text,true,,6715,235,21,50,https://blazedemo.com/purchase.php,1831,0,156
+1776038248054,552,POST - Comprar Passagem,200,OK,Teste de Carga 1-56,text,true,,6715,235,29,49,https://blazedemo.com/purchase.php,539,0,276
+1776038246358,2252,HTTP Request,200,OK,Teste de Pico 2-114,text,false,"The operation lasted too long: It took 2,252 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,20,48,https://blazedemo.com/purchase.php,2240,0,320
+1776038247335,1289,POST - Comprar Passagem,200,OK,Teste de Carga 1-38,text,true,,6715,235,29,48,https://blazedemo.com/purchase.php,1276,0,163
+1776038248173,459,POST - Comprar Passagem,200,OK,Teste de Carga 1-59,text,true,,6715,235,28,47,https://blazedemo.com/purchase.php,447,0,163
+1776038248214,471,POST - Comprar Passagem,200,OK,Teste de Carga 1-60,text,true,,6715,235,28,47,https://blazedemo.com/purchase.php,455,0,156
+1776038246656,2029,POST - Comprar Passagem,200,OK,Teste de Carga 1-19,text,false,"The operation lasted too long: It took 2,029 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,28,47,https://blazedemo.com/purchase.php,2017,0,199
+1776038248253,436,POST - Comprar Passagem,200,OK,Teste de Carga 1-61,text,true,,6715,235,26,45,https://blazedemo.com/purchase.php,418,0,155
+1776038246142,2570,HTTP Request,200,OK,Teste de Pico 2-60,text,false,"The operation lasted too long: It took 2,570 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,19,45,https://blazedemo.com/purchase.php,2558,0,739
+1776038246498,2219,HTTP Request,200,OK,Teste de Pico 2-149,text,false,"The operation lasted too long: It took 2,219 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,18,44,https://blazedemo.com/purchase.php,2207,0,188
+1776038248294,444,POST - Comprar Passagem,200,OK,Teste de Carga 1-62,text,true,,6715,235,27,44,https://blazedemo.com/purchase.php,432,0,154
+1776038247293,1447,POST - Comprar Passagem,200,OK,Teste de Carga 1-37,text,true,,6715,235,26,43,https://blazedemo.com/purchase.php,1435,0,167
+1776038247773,1010,POST - Comprar Passagem,200,OK,Teste de Carga 1-49,text,true,,6715,235,26,43,https://blazedemo.com/purchase.php,998,0,736
+1776038245951,2835,POST - Comprar Passagem,200,OK,Teste de Carga 1-2,text,false,"The operation lasted too long: It took 2,835 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,25,42,https://blazedemo.com/purchase.php,2823,0,916
+1776038246935,1873,POST - Comprar Passagem,200,OK,Teste de Carga 1-28,text,true,,6715,235,24,41,https://blazedemo.com/purchase.php,1861,0,153
+1776038248374,436,POST - Comprar Passagem,200,OK,Teste de Carga 1-64,text,true,,6715,235,23,40,https://blazedemo.com/purchase.php,425,0,155
+1776038245963,2849,HTTP Request,200,OK,Teste de Pico 2-15,text,false,"The operation lasted too long: It took 2,849 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,17,39,https://blazedemo.com/purchase.php,2837,0,724
+1776038246838,1976,HTTP Request,200,OK,Teste de Pico 2-234,text,true,,6715,235,16,39,https://blazedemo.com/purchase.php,1962,0,736
+1776038248335,494,POST - Comprar Passagem,200,OK,Teste de Carga 1-63,text,true,,6715,235,23,38,https://blazedemo.com/purchase.php,481,0,155
+1776038248414,442,POST - Comprar Passagem,200,OK,Teste de Carga 1-65,text,true,,6715,235,23,38,https://blazedemo.com/purchase.php,430,0,155
+1776038247816,1063,POST - Comprar Passagem,200,OK,Teste de Carga 1-50,text,true,,6715,235,22,37,https://blazedemo.com/purchase.php,1051,0,155
+1776038247453,1489,POST - Comprar Passagem,200,OK,Teste de Carga 1-41,text,true,,6715,235,23,38,https://blazedemo.com/purchase.php,1477,0,154
+1776038248494,501,POST - Comprar Passagem,200,OK,Teste de Carga 1-67,text,true,,6715,235,23,38,https://blazedemo.com/purchase.php,490,0,155
+1776038246854,2164,HTTP Request,200,OK,Teste de Pico 2-238,text,false,"The operation lasted too long: It took 2,164 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,15,38,https://blazedemo.com/purchase.php,2152,0,154
+1776038246530,2489,HTTP Request,200,OK,Teste de Pico 2-157,text,false,"The operation lasted too long: It took 2,489 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,14,37,https://blazedemo.com/purchase.php,2476,0,300
+1776038248614,406,POST - Comprar Passagem,200,OK,Teste de Carga 1-70,text,true,,6715,235,23,36,https://blazedemo.com/purchase.php,390,0,153
+1776038246673,2446,HTTP Request,200,OK,Teste de Pico 2-181,text,false,"The operation lasted too long: It took 2,446 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,13,37,https://blazedemo.com/purchase.php,2434,0,174
+1776038248535,588,POST - Comprar Passagem,200,OK,Teste de Carga 1-68,text,true,,6715,235,24,36,https://blazedemo.com/purchase.php,572,0,155
+1776038248133,997,POST - Comprar Passagem,200,OK,Teste de Carga 1-58,text,true,,6715,235,23,35,https://blazedemo.com/purchase.php,985,0,726
+1776038246894,2271,POST - Comprar Passagem,200,OK,Teste de Carga 1-27,text,false,"The operation lasted too long: It took 2,271 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,23,35,https://blazedemo.com/purchase.php,2259,0,163
+1776038246878,2331,HTTP Request,200,OK,Teste de Pico 2-244,text,false,"The operation lasted too long: It took 2,331 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,12,35,https://blazedemo.com/purchase.php,2319,0,156
+1776038248574,638,POST - Comprar Passagem,200,OK,Teste de Carga 1-69,text,true,,6715,235,23,34,https://blazedemo.com/purchase.php,626,0,155
+1776038246691,2541,HTTP Request,200,OK,Teste de Pico 2-174,text,false,"The operation lasted too long: It took 2,541 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,11,34,https://blazedemo.com/purchase.php,2529,0,155
+1776038246692,2566,HTTP Request,200,OK,Teste de Pico 2-180,text,false,"The operation lasted too long: It took 2,566 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,10,34,https://blazedemo.com/purchase.php,2554,0,372
+1776038248814,446,POST - Comprar Passagem,200,OK,Teste de Carga 1-75,text,true,,6715,235,24,33,https://blazedemo.com/purchase.php,434,0,163
+1776038248854,425,POST - Comprar Passagem,200,OK,Teste de Carga 1-76,text,true,,6715,235,23,32,https://blazedemo.com/purchase.php,413,0,155
+1776038248093,1216,POST - Comprar Passagem,200,OK,Teste de Carga 1-57,text,true,,6715,235,23,32,https://blazedemo.com/purchase.php,1197,0,734
+1776038246671,2656,HTTP Request,200,OK,Teste de Pico 2-170,text,false,"The operation lasted too long: It took 2,656 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,9,31,https://blazedemo.com/purchase.php,2643,0,175
+1776038247013,2326,POST - Comprar Passagem,200,OK,Teste de Carga 1-30,text,false,"The operation lasted too long: It took 2,326 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,23,31,https://blazedemo.com/purchase.php,2313,0,158
+1776038248893,453,POST - Comprar Passagem,200,OK,Teste de Carga 1-77,text,true,,6715,235,22,30,https://blazedemo.com/purchase.php,441,0,156
+1776038248654,725,POST - Comprar Passagem,200,OK,Teste de Carga 1-71,text,true,,6715,235,22,30,https://blazedemo.com/purchase.php,713,0,165
+1776038248773,623,POST - Comprar Passagem,200,OK,Teste de Carga 1-74,text,true,,6715,235,21,29,https://blazedemo.com/purchase.php,611,0,154
+1776038248696,713,POST - Comprar Passagem,200,OK,Teste de Carga 1-72,text,true,,6715,235,20,28,https://blazedemo.com/purchase.php,699,0,156
+1776038246675,2736,HTTP Request,200,OK,Teste de Pico 2-187,text,false,"The operation lasted too long: It took 2,736 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,8,27,https://blazedemo.com/purchase.php,2724,0,182
+1776038247254,2184,POST - Comprar Passagem,200,OK,Teste de Carga 1-36,text,false,"The operation lasted too long: It took 2,184 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,20,27,https://blazedemo.com/purchase.php,2172,0,177
+1776038247213,2240,POST - Comprar Passagem,200,OK,Teste de Carga 1-35,text,false,"The operation lasted too long: It took 2,240 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,19,26,https://blazedemo.com/purchase.php,2229,0,156
+1776038246699,2820,HTTP Request,200,OK,Teste de Pico 2-196,text,false,"The operation lasted too long: It took 2,820 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,7,27,https://blazedemo.com/purchase.php,2804,0,165
+1776038246681,2864,HTTP Request,200,OK,Teste de Pico 2-194,text,false,"The operation lasted too long: It took 2,864 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,6,27,https://blazedemo.com/purchase.php,2851,0,737
+1776038249133,444,POST - Comprar Passagem,200,OK,Teste de Carga 1-83,text,true,,6715,235,22,27,https://blazedemo.com/purchase.php,432,0,164
+1776038249055,528,POST - Comprar Passagem,200,OK,Teste de Carga 1-81,text,true,,6715,235,21,26,https://blazedemo.com/purchase.php,516,0,269
+1776038246711,2899,HTTP Request,200,OK,Teste de Pico 2-202,text,false,"The operation lasted too long: It took 2,899 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,5,25,https://blazedemo.com/purchase.php,2887,0,155
+1776038249014,636,POST - Comprar Passagem,200,OK,Teste de Carga 1-80,text,true,,6715,235,21,25,https://blazedemo.com/purchase.php,618,0,282
+1776038249174,477,POST - Comprar Passagem,200,OK,Teste de Carga 1-84,text,true,,6715,235,21,25,https://blazedemo.com/purchase.php,466,0,153
+1776038249213,473,POST - Comprar Passagem,200,OK,Teste de Carga 1-85,text,true,,6715,235,20,24,https://blazedemo.com/purchase.php,460,0,154
+1776038249255,446,POST - Comprar Passagem,200,OK,Teste de Carga 1-86,text,true,,6715,235,20,24,https://blazedemo.com/purchase.php,430,0,154
+1776038247374,2337,POST - Comprar Passagem,200,OK,Teste de Carga 1-39,text,false,"The operation lasted too long: It took 2,337 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,19,23,https://blazedemo.com/purchase.php,2325,0,733
+1776038245973,3740,HTTP Request,200,OK,Teste de Pico 2-18,text,false,"The operation lasted too long: It took 3,740 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,4,22,https://blazedemo.com/purchase.php,3726,0,903
+1776038248454,1278,POST - Comprar Passagem,200,OK,Teste de Carga 1-66,text,true,,6715,235,18,21,https://blazedemo.com/purchase.php,1266,0,725
+1776038249374,412,POST - Comprar Passagem,200,OK,Teste de Carga 1-89,text,true,,6715,235,19,22,https://blazedemo.com/purchase.php,400,0,154
+1776038246782,3042,HTTP Request,200,OK,Teste de Pico 2-220,text,false,"The operation lasted too long: It took 3,042 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,3,22,https://blazedemo.com/purchase.php,3031,0,155
+1776038249295,531,POST - Comprar Passagem,200,OK,Teste de Carga 1-87,text,true,,6715,235,19,21,https://blazedemo.com/purchase.php,518,0,155
+1776038249413,472,POST - Comprar Passagem,200,OK,Teste de Carga 1-90,text,true,,6715,235,19,21,https://blazedemo.com/purchase.php,460,0,157
+1776038247054,2868,POST - Comprar Passagem,200,OK,Teste de Carga 1-31,text,false,"The operation lasted too long: It took 2,868 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,19,21,https://blazedemo.com/purchase.php,2856,0,735
+1776038248933,1042,POST - Comprar Passagem,200,OK,Teste de Carga 1-78,text,true,,6715,235,20,22,https://blazedemo.com/purchase.php,1031,0,729
+1776038249533,499,POST - Comprar Passagem,200,OK,Teste de Carga 1-93,text,true,,6715,235,20,22,https://blazedemo.com/purchase.php,487,0,168
+1776038246869,3174,HTTP Request,200,OK,Teste de Pico 2-242,text,false,"The operation lasted too long: It took 3,174 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,2,21,https://blazedemo.com/purchase.php,3161,0,156
+1776038249573,497,POST - Comprar Passagem,200,OK,Teste de Carga 1-94,text,true,,6715,235,20,21,https://blazedemo.com/purchase.php,485,0,153
+1776038249653,427,POST - Comprar Passagem,200,OK,Teste de Carga 1-96,text,true,,6715,235,19,20,https://blazedemo.com/purchase.php,418,0,156
+1776038249613,472,POST - Comprar Passagem,200,OK,Teste de Carga 1-95,text,true,,6715,235,18,19,https://blazedemo.com/purchase.php,455,0,156
+1776038249454,666,POST - Comprar Passagem,200,OK,Teste de Carga 1-91,text,true,,6715,235,18,19,https://blazedemo.com/purchase.php,655,0,269
+1776038249773,416,POST - Comprar Passagem,200,OK,Teste de Carga 1-99,text,true,,6715,235,19,20,https://blazedemo.com/purchase.php,404,0,153
+1776038249734,467,POST - Comprar Passagem,200,OK,Teste de Carga 1-98,text,true,,6715,235,18,19,https://blazedemo.com/purchase.php,455,0,154
+1776038246657,3597,HTTP Request,200,OK,Teste de Pico 2-163,text,false,"The operation lasted too long: It took 3,597 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,1,20,https://blazedemo.com/purchase.php,3586,0,438
+1776038249094,1179,POST - Comprar Passagem,200,OK,Teste de Carga 1-82,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,1167,0,726
+1776038249813,479,POST - Comprar Passagem,200,OK,Teste de Carga 1-100,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,466,0,156
+1776038249894,442,POST - Comprar Passagem,200,OK,Teste de Carga 1-102,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,430,0,167
+1776038249974,420,POST - Comprar Passagem,200,OK,Teste de Carga 1-104,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,405,0,154
+1776038248735,1668,POST - Comprar Passagem,200,OK,Teste de Carga 1-73,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,1656,0,735
+1776038249334,1071,POST - Comprar Passagem,200,OK,Teste de Carga 1-88,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,1059,0,726
+1776038250013,425,POST - Comprar Passagem,200,OK,Teste de Carga 1-105,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,413,0,155
+1776038247973,2491,POST - Comprar Passagem,200,OK,Teste de Carga 1-54,text,false,"The operation lasted too long: It took 2,491 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,17,17,https://blazedemo.com/purchase.php,2479,0,155
+1776038249934,608,POST - Comprar Passagem,200,OK,Teste de Carga 1-103,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,596,0,158
+1776038249853,708,POST - Comprar Passagem,200,OK,Teste de Carga 1-101,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,692,0,154
+1776038250133,493,POST - Comprar Passagem,200,OK,Teste de Carga 1-108,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,481,0,160
+1776038250173,466,POST - Comprar Passagem,200,OK,Teste de Carga 1-109,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,454,0,154
+1776038250254,433,POST - Comprar Passagem,200,OK,Teste de Carga 1-111,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,421,0,161
+1776038250094,636,POST - Comprar Passagem,200,OK,Teste de Carga 1-107,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,624,0,154
+1776038250333,431,POST - Comprar Passagem,200,OK,Teste de Carga 1-113,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,419,0,156
+1776038248974,1827,POST - Comprar Passagem,200,OK,Teste de Carga 1-79,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,1815,0,158
+1776038250213,628,POST - Comprar Passagem,200,OK,Teste de Carga 1-110,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,614,0,276
+1776038250494,439,POST - Comprar Passagem,200,OK,Teste de Carga 1-117,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,426,0,156
+1776038250454,524,POST - Comprar Passagem,200,OK,Teste de Carga 1-116,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,512,0,154
+1776038250413,716,POST - Comprar Passagem,200,OK,Teste de Carga 1-115,text,true,,6715,235,21,21,https://blazedemo.com/purchase.php,703,0,154
+1776038249494,1687,POST - Comprar Passagem,200,OK,Teste de Carga 1-92,text,true,,6715,235,22,22,https://blazedemo.com/purchase.php,1676,0,281
+1776038250653,546,POST - Comprar Passagem,200,OK,Teste de Carga 1-121,text,true,,6715,235,21,21,https://blazedemo.com/purchase.php,534,0,157
+1776038250735,497,POST - Comprar Passagem,200,OK,Teste de Carga 1-123,text,true,,6715,235,21,21,https://blazedemo.com/purchase.php,486,0,165
+1776038250814,420,POST - Comprar Passagem,200,OK,Teste de Carga 1-125,text,true,,6715,235,20,20,https://blazedemo.com/purchase.php,409,0,154
+1776038250054,1202,POST - Comprar Passagem,200,OK,Teste de Carga 1-106,text,true,,6715,235,20,20,https://blazedemo.com/purchase.php,1190,0,722
+1776038250534,733,POST - Comprar Passagem,200,OK,Teste de Carga 1-118,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,721,0,155
+1776038250295,1026,POST - Comprar Passagem,200,OK,Teste de Carga 1-112,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,1013,0,728
+1776038250775,551,POST - Comprar Passagem,200,OK,Teste de Carga 1-124,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,539,0,269
+1776038250974,423,POST - Comprar Passagem,200,OK,Teste de Carga 1-129,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,411,0,156
+1776038250614,787,POST - Comprar Passagem,200,OK,Teste de Carga 1-120,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,775,0,270
+1776038250694,720,POST - Comprar Passagem,200,OK,Teste de Carga 1-122,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,708,0,153
+1776038250934,530,POST - Comprar Passagem,200,OK,Teste de Carga 1-128,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,518,0,271
+1776038251056,413,POST - Comprar Passagem,200,OK,Teste de Carga 1-131,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,401,0,153
+1776038250855,644,POST - Comprar Passagem,200,OK,Teste de Carga 1-126,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,632,0,156
+1776038251134,568,POST - Comprar Passagem,200,OK,Teste de Carga 1-133,text,true,,6715,235,21,21,https://blazedemo.com/purchase.php,556,0,158
+1776038251295,409,POST - Comprar Passagem,200,OK,Teste de Carga 1-137,text,true,,6715,235,20,20,https://blazedemo.com/purchase.php,397,0,156
+1776038251015,726,POST - Comprar Passagem,200,OK,Teste de Carga 1-130,text,true,,6715,235,20,20,https://blazedemo.com/purchase.php,714,0,156
+1776038251095,662,POST - Comprar Passagem,200,OK,Teste de Carga 1-132,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,647,0,153
+1776038251414,420,POST - Comprar Passagem,200,OK,Teste de Carga 1-140,text,true,,6715,235,20,20,https://blazedemo.com/purchase.php,403,0,156
+1776038249694,2156,POST - Comprar Passagem,200,OK,Teste de Carga 1-97,text,false,"The operation lasted too long: It took 2,156 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,19,19,https://blazedemo.com/purchase.php,2144,0,154
+1776038251255,658,POST - Comprar Passagem,200,OK,Teste de Carga 1-136,text,true,,6715,235,20,20,https://blazedemo.com/purchase.php,646,0,157
+1776038251534,425,POST - Comprar Passagem,200,OK,Teste de Carga 1-143,text,true,,6715,235,20,20,https://blazedemo.com/purchase.php,413,0,155
+1776038251335,645,POST - Comprar Passagem,200,OK,Teste de Carga 1-138,text,true,,6715,235,20,20,https://blazedemo.com/purchase.php,633,0,278
+1776038251216,800,POST - Comprar Passagem,200,OK,Teste de Carga 1-135,text,true,,6715,235,20,20,https://blazedemo.com/purchase.php,784,0,155
+1776038251574,449,POST - Comprar Passagem,200,OK,Teste de Carga 1-144,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,437,0,156
+1776038250893,1148,POST - Comprar Passagem,200,OK,Teste de Carga 1-127,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,1136,0,725
+1776038251374,698,POST - Comprar Passagem,200,OK,Teste de Carga 1-139,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,687,0,276
+1776038251614,478,POST - Comprar Passagem,200,OK,Teste de Carga 1-145,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,466,0,155
+1776038251695,439,POST - Comprar Passagem,200,OK,Teste de Carga 1-147,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,424,0,161
+1776038251496,652,POST - Comprar Passagem,200,OK,Teste de Carga 1-142,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,636,0,166
+1776038251654,500,POST - Comprar Passagem,200,OK,Teste de Carga 1-146,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,489,0,162
+1776038251894,449,POST - Comprar Passagem,200,OK,Teste de Carga 1-152,text,true,,6715,235,20,20,https://blazedemo.com/purchase.php,437,0,155
+1776038251735,624,POST - Comprar Passagem,200,OK,Teste de Carga 1-148,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,612,0,280
+1776038251935,471,POST - Comprar Passagem,200,OK,Teste de Carga 1-153,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,459,0,154
+1776038251975,433,POST - Comprar Passagem,200,OK,Teste de Carga 1-154,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,421,0,158
+1776038251175,1250,POST - Comprar Passagem,200,OK,Teste de Carga 1-134,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,1238,0,269
+1776038251814,611,POST - Comprar Passagem,200,OK,Teste de Carga 1-150,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,599,0,154
+1776038250374,2161,POST - Comprar Passagem,200,OK,Teste de Carga 1-114,text,false,"The operation lasted too long: It took 2,161 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,19,19,https://blazedemo.com/purchase.php,2150,0,726
+1776038252135,466,POST - Comprar Passagem,200,OK,Teste de Carga 1-158,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,455,0,154
+1776038251455,1153,POST - Comprar Passagem,200,OK,Teste de Carga 1-141,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,1141,0,155
+1776038252054,563,POST - Comprar Passagem,200,OK,Teste de Carga 1-156,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,551,0,155
+1776038251854,796,POST - Comprar Passagem,200,OK,Teste de Carga 1-151,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,784,0,270
+1776038252294,426,POST - Comprar Passagem,200,OK,Teste de Carga 1-162,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,414,0,155
+1776038252375,440,POST - Comprar Passagem,200,OK,Teste de Carga 1-164,text,true,,6715,235,20,20,https://blazedemo.com/purchase.php,427,0,156
+1776038252334,525,POST - Comprar Passagem,200,OK,Teste de Carga 1-163,text,true,,6715,235,20,20,https://blazedemo.com/purchase.php,513,0,269
+1776038252254,638,POST - Comprar Passagem,200,OK,Teste de Carga 1-161,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,626,0,154
+1776038252175,806,POST - Comprar Passagem,200,OK,Teste de Carga 1-159,text,true,,6715,235,21,21,https://blazedemo.com/purchase.php,795,0,154
+1776038252094,891,POST - Comprar Passagem,200,OK,Teste de Carga 1-157,text,true,,6715,235,20,20,https://blazedemo.com/purchase.php,886,0,275
+1776038252214,797,POST - Comprar Passagem,200,OK,Teste de Carga 1-160,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,790,0,273
+1776038252534,479,POST - Comprar Passagem,200,OK,Teste de Carga 1-168,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,466,0,165
+1776038250574,2438,POST - Comprar Passagem,200,OK,Teste de Carga 1-119,text,false,"The operation lasted too long: It took 2,438 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,18,18,https://blazedemo.com/purchase.php,2425,0,724
+1776038252014,1011,POST - Comprar Passagem,200,OK,Teste de Carga 1-155,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,999,0,723
+1776038252574,466,POST - Comprar Passagem,200,OK,Teste de Carga 1-169,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,454,0,156
+1776038252653,474,POST - Comprar Passagem,200,OK,Teste de Carga 1-171,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,461,0,158
+1776038252734,433,POST - Comprar Passagem,200,OK,Teste de Carga 1-173,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,421,0,155
+1776038252415,761,POST - Comprar Passagem,200,OK,Teste de Carga 1-165,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,745,0,270
+1776038252775,462,POST - Comprar Passagem,200,OK,Teste de Carga 1-174,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,450,0,155
+1776038252455,854,POST - Comprar Passagem,200,OK,Teste de Carga 1-166,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,842,0,155
+1776038252855,496,POST - Comprar Passagem,200,OK,Teste de Carga 1-176,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,484,0,154
+1776038252895,488,POST - Comprar Passagem,200,OK,Teste de Carga 1-177,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,476,0,154
+1776038252494,904,POST - Comprar Passagem,200,OK,Teste de Carga 1-167,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,893,0,155
+1776038252974,447,POST - Comprar Passagem,200,OK,Teste de Carga 1-179,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,435,0,165
+1776038252934,530,POST - Comprar Passagem,200,OK,Teste de Carga 1-178,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,519,0,159
+1776038253095,457,POST - Comprar Passagem,200,OK,Teste de Carga 1-182,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,445,0,155
+1776038253054,524,POST - Comprar Passagem,200,OK,Teste de Carga 1-181,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,520,0,275
+1776038253174,430,POST - Comprar Passagem,200,OK,Teste de Carga 1-184,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,418,0,154
+1776038253254,408,POST - Comprar Passagem,200,OK,Teste de Carga 1-186,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,396,0,154
+1776038253214,482,POST - Comprar Passagem,200,OK,Teste de Carga 1-185,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,470,0,164
+1776038252694,1007,POST - Comprar Passagem,200,OK,Teste de Carga 1-172,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,995,0,725
+1776038253335,438,POST - Comprar Passagem,200,OK,Teste de Carga 1-188,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,426,0,155
+1776038253294,533,POST - Comprar Passagem,200,OK,Teste de Carga 1-187,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,521,0,270
+1776038253414,418,POST - Comprar Passagem,200,OK,Teste de Carga 1-190,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,407,0,155
+1776038251774,2082,POST - Comprar Passagem,200,OK,Teste de Carga 1-149,text,false,"The operation lasted too long: It took 2,082 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,17,17,https://blazedemo.com/purchase.php,2070,0,164
+1776038252815,1055,POST - Comprar Passagem,200,OK,Teste de Carga 1-175,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,1043,0,724
+1776038253536,448,POST - Comprar Passagem,200,OK,Teste de Carga 1-193,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,435,0,163
+1776038253575,459,POST - Comprar Passagem,200,OK,Teste de Carga 1-194,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,448,0,163
+1776038253496,546,POST - Comprar Passagem,200,OK,Teste de Carga 1-192,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,534,0,154
+1776038253654,442,POST - Comprar Passagem,200,OK,Teste de Carga 1-196,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,426,0,158
+1776038253014,1093,POST - Comprar Passagem,200,OK,Teste de Carga 1-180,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,1081,0,724
+1776038253694,454,POST - Comprar Passagem,200,OK,Teste de Carga 1-197,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,441,0,155
+1776038253734,444,POST - Comprar Passagem,200,OK,Teste de Carga 1-198,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,432,0,177
+1776038253775,424,POST - Comprar Passagem,200,OK,Teste de Carga 1-199,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,412,0,154
+1776038253815,441,POST - Comprar Passagem,200,OK,Teste de Carga 1-200,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,429,0,156
+1776038253614,715,POST - Comprar Passagem,200,OK,Teste de Carga 1-195,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,704,0,154
+1776038253855,495,POST - Comprar Passagem,200,OK,Teste de Carga 1-201,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,482,0,154
+1776038253990,431,POST - Comprar Passagem,200,OK,Teste de Carga 1-204,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,414,0,154
+1776038254099,443,POST - Comprar Passagem,200,OK,Teste de Carga 1-207,text,true,,6715,235,20,20,https://blazedemo.com/purchase.php,431,0,154
+1776038253134,1437,POST - Comprar Passagem,200,OK,Teste de Carga 1-183,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,1425,0,156
+1776038253454,1120,POST - Comprar Passagem,200,OK,Teste de Carga 1-191,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,1108,0,725
+1776038254178,475,POST - Comprar Passagem,200,OK,Teste de Carga 1-209,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,460,0,158
+1776038254147,511,POST - Comprar Passagem,200,OK,Teste de Carga 1-208,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,499,0,157
+1776038253943,748,POST - Comprar Passagem,200,OK,Teste de Carga 1-203,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,735,0,165
+1776038254257,434,POST - Comprar Passagem,200,OK,Teste de Carga 1-211,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,422,0,156
+1776038254021,690,POST - Comprar Passagem,200,OK,Teste de Carga 1-205,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,675,0,155
+1776038254303,444,POST - Comprar Passagem,200,OK,Teste de Carga 1-212,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,427,0,156
+1776038254381,414,POST - Comprar Passagem,200,OK,Teste de Carga 1-214,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,401,0,158
+1776038254068,754,POST - Comprar Passagem,200,OK,Teste de Carga 1-206,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,743,0,155
+1776038254458,407,POST - Comprar Passagem,200,OK,Teste de Carga 1-216,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,395,0,157
+1776038252614,2295,POST - Comprar Passagem,200,OK,Teste de Carga 1-170,text,false,"The operation lasted too long: It took 2,295 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,17,17,https://blazedemo.com/purchase.php,2283,0,155
+1776038254505,416,POST - Comprar Passagem,200,OK,Teste de Carga 1-217,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,400,0,157
+1776038253375,1557,POST - Comprar Passagem,200,OK,Teste de Carga 1-189,text,true,,6715,235,15,15,https://blazedemo.com/purchase.php,1545,0,725
+1776038254582,418,POST - Comprar Passagem,200,OK,Teste de Carga 1-219,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,406,0,155
+1776038254225,797,POST - Comprar Passagem,200,OK,Teste de Carga 1-210,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,785,0,154
+1776038254536,494,POST - Comprar Passagem,200,OK,Teste de Carga 1-218,text,true,,6715,235,15,15,https://blazedemo.com/purchase.php,482,0,156
+1776038254737,402,POST - Comprar Passagem,200,OK,Teste de Carga 1-223,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,390,0,154
+1776038253895,1255,POST - Comprar Passagem,200,OK,Teste de Carga 1-202,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,1244,0,154
+1776038254350,889,POST - Comprar Passagem,200,OK,Teste de Carga 1-213,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,877,0,155
+1776038254705,545,POST - Comprar Passagem,200,OK,Teste de Carga 1-222,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,532,0,279
+1776038254659,638,POST - Comprar Passagem,200,OK,Teste de Carga 1-221,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,626,0,156
+1776038254814,500,POST - Comprar Passagem,200,OK,Teste de Carga 1-225,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,488,0,166
+1776038254783,575,POST - Comprar Passagem,200,OK,Teste de Carga 1-224,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,563,0,156
+1776038254908,480,POST - Comprar Passagem,200,OK,Teste de Carga 1-227,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,468,0,155
+1776038255017,416,POST - Comprar Passagem,200,OK,Teste de Carga 1-230,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,403,0,154
+1776038254938,527,POST - Comprar Passagem,200,OK,Teste de Carga 1-228,text,true,,6715,235,15,15,https://blazedemo.com/purchase.php,512,0,155
+1776038255141,421,POST - Comprar Passagem,200,OK,Teste de Carga 1-233,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,409,0,157
+1776038255063,580,POST - Comprar Passagem,200,OK,Teste de Carga 1-231,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,568,0,164
+1776038254985,718,POST - Comprar Passagem,200,OK,Teste de Carga 1-229,text,true,,6715,235,19,19,https://blazedemo.com/purchase.php,706,0,154
+1776038255187,524,POST - Comprar Passagem,200,OK,Teste de Carga 1-234,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,512,0,163
+1776038255297,422,POST - Comprar Passagem,200,OK,Teste de Carga 1-237,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,410,0,155
+1776038255219,517,POST - Comprar Passagem,200,OK,Teste de Carga 1-235,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,505,0,154
+1776038254861,998,POST - Comprar Passagem,200,OK,Teste de Carga 1-226,text,true,,6715,235,18,18,https://blazedemo.com/purchase.php,985,0,154
+1776038255094,778,POST - Comprar Passagem,200,OK,Teste de Carga 1-232,text,true,,6715,235,17,17,https://blazedemo.com/purchase.php,765,0,157
+1776038255343,547,POST - Comprar Passagem,200,OK,Teste de Carga 1-238,text,true,,6715,235,16,16,https://blazedemo.com/purchase.php,535,0,274
+1776038255266,665,POST - Comprar Passagem,200,OK,Teste de Carga 1-236,text,true,,6715,235,15,15,https://blazedemo.com/purchase.php,653,0,157
+1776038255420,557,POST - Comprar Passagem,200,OK,Teste de Carga 1-240,text,true,,6715,235,14,14,https://blazedemo.com/purchase.php,545,0,154
+1776038255574,427,POST - Comprar Passagem,200,OK,Teste de Carga 1-244,text,true,,6715,235,13,13,https://blazedemo.com/purchase.php,415,0,156
+1776038254628,1471,POST - Comprar Passagem,200,OK,Teste de Carga 1-220,text,true,,6715,235,12,12,https://blazedemo.com/purchase.php,1460,0,725
+1776038255667,440,POST - Comprar Passagem,200,OK,Teste de Carga 1-246,text,true,,6715,235,11,11,https://blazedemo.com/purchase.php,428,0,166
+1776038255698,426,POST - Comprar Passagem,200,OK,Teste de Carga 1-247,text,true,,6715,235,10,10,https://blazedemo.com/purchase.php,414,0,153
+1776038255388,762,POST - Comprar Passagem,200,OK,Teste de Carga 1-239,text,true,,6715,235,9,9,https://blazedemo.com/purchase.php,750,0,156
+1776038255498,669,POST - Comprar Passagem,200,OK,Teste de Carga 1-242,text,true,,6715,235,8,8,https://blazedemo.com/purchase.php,656,0,156
+1776038254427,1772,POST - Comprar Passagem,200,OK,Teste de Carga 1-215,text,true,,6715,235,7,7,https://blazedemo.com/purchase.php,1760,0,162
+1776038255746,488,POST - Comprar Passagem,200,OK,Teste de Carga 1-248,text,true,,6715,235,6,6,https://blazedemo.com/purchase.php,475,0,174
+1776038255544,820,POST - Comprar Passagem,200,OK,Teste de Carga 1-243,text,true,,6715,235,5,5,https://blazedemo.com/purchase.php,808,0,154
+1776038255778,726,POST - Comprar Passagem,200,OK,Teste de Carga 1-249,text,true,,6715,235,4,4,https://blazedemo.com/purchase.php,713,0,154
+1776038255467,1142,POST - Comprar Passagem,200,OK,Teste de Carga 1-241,text,true,,6715,235,3,3,https://blazedemo.com/purchase.php,1126,0,736
+1776038255826,1093,POST - Comprar Passagem,200,OK,Teste de Carga 1-250,text,true,,6715,235,2,2,https://blazedemo.com/purchase.php,1081,0,725
+1776038255621,2053,POST - Comprar Passagem,200,OK,Teste de Carga 1-245,text,false,"The operation lasted too long: It took 2,053 milliseconds, but should not have lasted longer than 2,000 milliseconds.",6715,235,1,1,https://blazedemo.com/purchase.php,2040,0,155
