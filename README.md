@@ -1,4 +1,4 @@
-# Testes de Performance — Blazedemo (QA Performance)
+# Testes de Performance - Blazedemo
 
 Testes de performance do fluxo de **compra de passagem aérea** do site [Blazedemo](https://www.blazedemo.com), desenvolvidos com **Apache JMeter 5.6.3**, como parte do teste técnico de QA.
 
@@ -28,9 +28,9 @@ Validar se a aplicação suporta a carga esperada de **250 requisições por seg
 
 ---
 
-## 📊 Resultados — Relatório HTML (Execução Combinada)
+## 📊 Resultados - Relatório HTML (Execução Combinada)
 
-*500 amostras totais — 250 Teste de Carga + 250 Teste de Pico*
+*500 amostras totais - 250 Teste de Carga + 250 Teste de Pico*
 
 ### Statistics
 
