@@ -28,39 +28,54 @@ Validar se a aplicação suporta a carga esperada de **250 requisições por seg
 
 ---
 
-## 📊 Resultados
+## 📊 Resultados — Relatório HTML (Execução Combinada)
 
-### Teste de Carga
-*250 usuários — Ramp-up: 10 segundos*
+*500 amostras totais — 250 Teste de Carga + 250 Teste de Pico*
 
-| Métrica | Resultado | Critério | Status |
-|---|---|---|---|
-| Throughput | 22 req/s | 250 req/s | ❌ |
-| Tempo Médio | 775ms | < 2000ms | ✅ |
-| Tempo Máximo | 3382ms | < 2000ms | ❌ |
-| Taxa de Erro | 3.20% | 0% | ❌ |
+### Statistics
 
-### Teste de Pico
-*250 usuários — Ramp-up: 1 segundo*
+| Label | Amostras | Falhas | Error % | Média (ms) | Mín (ms) | Máx (ms) | 90th pct (ms) | 95th pct (ms) | 99th pct (ms) | Throughput |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **Total** | 500 | 46 | 9.20% | 1040 | 402 | 3740 | 1953 | 2293 | 2898 | 42.65/s |
+| HTTP Request (Pico) | 250 | 31 | 12.40% | 1277 | 428 | 3740 | 2129 | 2552 | 3381 | 58.09/s |
+| POST - Comprar Passagem (Carga) | 250 | 15 | 6.00% | 804 | 402 | 2868 | 1522 | 2115 | 2659 | 21.32/s |
 
-| Métrica | Resultado | Critério | Status |
-|---|---|---|---|
-| Throughput | 52.4 req/s | 250 req/s | ❌ |
-| Tempo Médio | 1176ms | < 2000ms | ✅ |
-| Tempo Máximo | 4072ms | < 2000ms | ❌ |
-| Taxa de Erro | 12.80% | 0% | ❌ |
+### APDEX (Application Performance Index)
+
+| Label | Score |
+|---|---|
+| Total | 0.515 |
+| HTTP Request | 0.380 |
+| POST - Comprar Passagem | 0.650 |
+
+> APDEX varia de 0 a 1. Valores abaixo de 0.7 indicam experiência insatisfatória para o usuário.
+
+### Requests Summary
+
+- ✅ PASS: **90.8%**
+- ❌ FAIL: **9.2%**
 
 ---
 
 ## 🔍 Análise dos Resultados
 
-### O critério de aceitação **não foi atendido** em nenhum dos testes.
+### O critério de aceitação **não foi atendido**.
 
-**Throughput:** A aplicação atingiu apenas 22 req/s no teste de carga e 52.4 req/s no teste de pico, muito abaixo das 250 req/s exigidas. Isso indica que o servidor do Blazedemo possui limitações de capacidade que impedem atingir a vazão esperada.
+**Critério:** 250 req/s com 90th percentil < 2000ms
 
-**Tempo de resposta:** O tempo médio ficou dentro do critério em ambos os testes (775ms e 1176ms), porém o tempo máximo ultrapassou 2 segundos nos dois casos, chegando a 4072ms no teste de pico.
+| Critério | Resultado | Status |
+|---|---|---|
+| Throughput ≥ 250 req/s | 42.65 req/s (total) | ❌ |
+| 90th percentil < 2000ms | 1953ms (total) | ⚠️ Próximo do limite |
+| Taxa de erro = 0% | 9.20% | ❌ |
 
-**Taxa de erro:** O teste de carga apresentou 3.2% de erros, que aumentou para 12.8% no teste de pico — evidenciando que a aplicação se degrada significativamente sob alta carga simultânea, característica típica de uma **race condition** no servidor ou limite de conexões simultâneas.
+**Throughput:** A aplicação atingiu apenas 42.65 req/s no total, muito abaixo das 250 req/s exigidas. O servidor Blazedemo possui limitações de capacidade que impedem atingir a vazão esperada.
+
+**90th percentil:** Ficou em 1953ms — tecnicamente dentro do critério de 2 segundos, porém extremamente próximo do limite. No teste de pico isolado, o 90th percentil foi de 2129ms, ultrapassando o critério.
+
+**Taxa de erro:** 9.2% das requisições falharam. A análise dos erros mostra que todos foram do tipo *"The operation lasted too long"*, ou seja, requisições que ultrapassaram o limite de 2000ms definido na Duration Assertion — confirmando que o servidor não suporta a carga exigida.
+
+**APDEX:** Score de 0.515 indica experiência insatisfatória para o usuário final sob essa carga.
 
 ### Conclusão
 
@@ -69,7 +84,7 @@ O site Blazedemo é um ambiente de demonstração com infraestrutura limitada, n
 - Aumentar a capacidade do servidor (scale horizontal ou vertical)
 - Implementar cache para reduzir carga no backend
 - Revisar o gerenciamento de conexões simultâneas
-- Realizar um profiling da aplicação para identificar gargalos
+- Realizar profiling da aplicação para identificar gargalos
 
 ---
 
@@ -104,5 +119,7 @@ O relatório HTML será gerado na pasta `relatorio-html/`.
 ```
 blazedemo-performance/
 ├── Relatório de Carga.jmx    ← Script JMeter com Teste de Carga e Teste de Pico
+├── resultados.jtl            ← Arquivo de resultados brutos
+├── relatorio-html/           ← Relatório HTML gerado pelo JMeter
 └── README.md
 ```
